@@ -1,9 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=35&inline_block=true&vCenter=true&width=1000&lines=Salve+Gustavão+na+área!+:%29)](https://git.io/typing-svg)
 
-### Olá! eu sou o Gustavão Fernandes 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
-
-<div align="center">
+  
+<div style="display: inline_block"><br/>
   <a href="https://www.instagram.com/gsfernandes._/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/d-araujof/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:guborrelly"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -12,16 +10,16 @@
 
 </br>
 
-<div align="center">
+<div style="display: inline_block">
 <a href="https://github.com/GustavoFernandesS/GustavoFernandesS/blob/main/cv_Gustavo.pdf" target="_blank">Currículo</a>
 </div>
 
 </br>
 
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/GustavoFernandesS">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoFernandesS&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFernandesS&theme=vision-friendly-dark_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoFernandesS&show_icons=true&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFernandesS&show_icons=true&theme=dark"/>
   </a>
 </div>
 
