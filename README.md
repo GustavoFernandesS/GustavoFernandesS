@@ -25,7 +25,7 @@
   </a>
 </div>
 
-### Tecnologias que eu uso no meu dia a dia
+### Dia a dia
 
 <div style="display: inline_block"><br/>
       <a target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
