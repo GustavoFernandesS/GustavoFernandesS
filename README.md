@@ -1,7 +1,7 @@
 
 ### Olá! eu sou o Gustavo Fernandes 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CE5E80&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.instagram.com/gsfernandes._/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -40,10 +40,4 @@
     <img align="center" alt="Node JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img align="center" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
     <img align="center" alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</div>
-
-</br>
-
-<div align="center">
-❤️‍
 </div>
