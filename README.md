@@ -20,8 +20,8 @@
 
 <div align="center">
   <a href="https://github.com/GustavoFernandesS">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoFernandesS&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFernandesS&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoFernandesS&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFernandesS&theme=vision-friendly-dark_border=false&&layout=compact"/>
   </a>
 </div>
 
