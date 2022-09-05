@@ -4,17 +4,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CE5E80&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://www.instagram.com/d_araujof_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/gsfernandes._/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/d-araujof/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:dudaafernandes06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="discordapp.com/users/688917943379427354" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/11975900603" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="mailto:guborrelly"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/11947771128" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
 </br>
 
 <div align="center">
-<a href="https://github.com/d-araujo/d-araujo/blob/main/Curr%C3%ADculo.pdf" target="_blank">Currículo</a>
+<a href="https://github.com/GustavoFernandesS/GustavoFernandesS/blob/main/cv_Gustavo.pdf" target="_blank">Currículo</a>
 </div>
 
 </br>
@@ -29,8 +28,8 @@
 ### Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
-      <a href="https://github.com/d-araujo/Figma" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
-      <a href="https://github.com/d-araujo/Heroku" target="_blank"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank"></a>
+      <a target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
+      <a target="_blank"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank"></a>
 </div>
 
 <div style="display: inline_block"><br/>
