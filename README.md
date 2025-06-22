@@ -10,9 +10,6 @@
 
 </br>
 
-<div style="display: inline_block">
-<a href="https://github.com/GustavoFernandesS/GustavoFernandesS/blob/main/Currículo Gustavo.pdf" target="_blank">Currículo</a>
-</div>
 
 </br>
 
