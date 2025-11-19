@@ -1,4 +1,3 @@
-# Olá, eu sou o Gustavo 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=35&inline_block=true&vCenter=true&width=1000&lines=Eai+Gustavo+na+área!+:%29)](https://git.io/typing-svg)
 
